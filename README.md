@@ -1,2 +1,1 @@
-# Prateek
-Computer Science Student
+
